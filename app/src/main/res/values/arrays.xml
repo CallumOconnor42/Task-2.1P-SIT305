@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units_array">
+        <!-- Length Units -->
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+
+        <!-- Weight Units -->
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Ton</item>
+
+        <!-- Temperature Units -->
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>

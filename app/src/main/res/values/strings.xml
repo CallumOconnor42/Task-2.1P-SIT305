@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="source_unit_prompt">Select Source Unit</string>
+    <string name="destination_unit_prompt">Select Destination Unit</string>
+    <string name="value_hint">Enter Value</string>
+    <string name="convert_button_label">Convert</string>
+</resources>
